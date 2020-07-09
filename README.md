@@ -3,6 +3,7 @@ Ultrasonic Distance Measurement using Arduino is used to find the distance of th
 HC-SR04 ultrasonic range finder module is used as the sensor here. The display consists of a three digit multiplexed seven segment display. This range finder can measure up to 200 cm and has an accuracy of 1cm.
 ## HC SR04 ultrasonic module.
 HC SR04 is an ultrasonic distance measurement sensor with an accuracy of 0.3cm. The sensing range of this module is from 2cm to 5 meter. Working current of this sensor is 15mA and the measuring angle is 15°. The photograph of front and back side of the HC-SR04 sensor is shown in the figure below.
+
 ![image of Ultrasonic Sensor](Images/HC-SR04-ultrasonic-range-finder.png)
 
 HC-SR04 has four pins. Their names and functions are explained below :
@@ -28,4 +29,4 @@ I have also uploaded the .ino file of this project.
 
 ** Segment A, B, C, D, E, F and G of Seven Segment Display are connected to 9,8,7,6,5,4 and 3 respectively.
 
-**I've also Uploaded The .brd of the schematic on my repository.
+**I've also Uploaded The Eagle board file .brd of the schematic on my repository.**
