@@ -1,4 +1,4 @@
-# Ultrasonic-Distance-Measurement-using-Arduino-and-Seven-Segment
+# Ultrasonic Distance Measurement using Arduino and Seven Segment
 Ultrasonic Distance Measurement using Arduino is used to find the distance of the object from the sensor. It's mostly used in SONAR system to estimate the depth of the water in any water body like Ocean, River, etc. 
 HC-SR04 ultrasonic range finder module is used as the sensor here. The display consists of a three digit multiplexed seven segment display. This range finder can measure up to 200 cm and has an accuracy of 1cm.
 ## HC SR04 ultrasonic module.
