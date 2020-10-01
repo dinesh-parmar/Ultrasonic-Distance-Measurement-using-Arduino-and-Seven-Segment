@@ -29,4 +29,4 @@ I have also uploaded the .ino file of this project.
 
 ** Segment A, B, C, D, E, F and G of Seven Segment Display are connected to 9,8,7,6,5,4 and 3 respectively.
 
-**I've also Uploaded The Eagle board file .brd of the schematic on my repository.**
+**I've also Uploaded The Eagle board file .brd of the schematic in my repository.**
